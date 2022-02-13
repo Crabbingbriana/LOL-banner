@@ -15,9 +15,10 @@ intents.members = True
 client = commands.Bot(command_prefix='!', intents=intents)
 
 messages = [
-    "Stop playing league of legends",
-    "Take a shower",
-    "Among us??? Sussy??? Imposter league of legends?"
+   "Take a shower"
+   "Stop e dating"
+   "Go play team fight tactics"
+   "Touch grass"
 ]
 
 
