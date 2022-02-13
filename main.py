@@ -15,10 +15,9 @@ intents.members = True
 client = commands.Bot(command_prefix='!', intents=intents)
 
 messages = [
-   "Take a shower"
-   "Stop e dating"
-   "Go play team fight tactics"
-   "Touch grass"
+   "take a shower"
+   "touch grass"
+   "league of poo or something"
 ]
 
 
